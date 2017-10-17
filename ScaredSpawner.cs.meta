@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 117b0bc21809b1143b81721ee5a2660f
+timeCreated: 1498182345
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - firstSpawnedObject: {fileID: 1313531445346852, guid: aa803e22a94fc524c8c36dad60771b7c,
+      type: 2}
+  - secondSpawnedObject: {fileID: 1615587818119234, guid: e6bc8d48cb7042f46b01bd57bcc91b79,
+      type: 2}
+  - thirdSpawnedObject: {fileID: 1908770743976350, guid: 87e2e8627336c9e47affcd0951a65d70,
+      type: 2}
+  - fourthSpawnedObject: {fileID: 1897568007657102, guid: 2e8ee45145611c04380176011d98b5ba,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
